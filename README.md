@@ -7,14 +7,13 @@
 
 ## Стараюсь не сидеть без дела
 ### Проекты
+#### [Осознанные сны](https://github.com/kirillpolonskii/LucidDreaming/tree/develop) (в разработке)
+Мобильное приложение для ведения дневника снов и практики метода тестирования реальности.
 #### <img src="https://github.com/kirillpolonskii/MemoryTraining/blob/master/app/src/main/ic_launcher-playstore.png" width="30" height="30" align="center"> &nbsp;[MemoryTraining](https://github.com/kirillpolonskii/MemoryTraining)
 Мобильное приложение с шестью видами тренировок памяти и отслеживанием статистики ошибок.
 &nbsp;
 
 <img src="https://github.com/kirillpolonskii/MemoryTraining/blob/master/presentation/MemoryTraining_presentation.gif" width="290" height="600">
-
-#### [Осознанные сны](https://github.com/kirillpolonskii/LucidDreaming/tree/develop) (в разработке)
-Мобильное приложение для ведения дневника снов и практики метода тестирования реальности.
 
 ### [Алгоритмические задачи](https://github.com/kirillpolonskii/CodePractice)
 #### Codeforces (сложность-количество)
