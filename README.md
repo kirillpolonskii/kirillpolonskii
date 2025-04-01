@@ -7,16 +7,16 @@
 
 ## Стараюсь не сидеть без дела
 ### Проекты
-#### <img src="https://github.com/kirillpolonskii/MemoryTraining/blob/master/app/src/main/ic_launcher-playstore.png" width="30" height="30" align="center"> &nbsp;MemoryTraining
+#### <img src="https://github.com/kirillpolonskii/MemoryTraining/blob/master/app/src/main/ic_launcher-playstore.png" width="30" height="30" align="center"> &nbsp;[MemoryTraining](https://github.com/kirillpolonskii/MemoryTraining)
 Мобильное приложение с шестью видами тренировок памяти и отслеживанием статистики ошибок.
 &nbsp;
 
 <img src="https://github.com/kirillpolonskii/MemoryTraining/blob/master/presentation/MemoryTraining_presentation.gif" width="290" height="600">
 
-#### Coming soon
-- "Осознанные сны": мобильное приложение для ведения дневника снов и практики метода тестирования реальности
+#### [Осознанные сны](https://github.com/kirillpolonskii/LucidDreaming/tree/develop) (в разработке)
+Мобильное приложение для ведения дневника снов и практики метода тестирования реальности.
 
-### Алгоритмические задачи
+### [Алгоритмические задачи](https://github.com/kirillpolonskii/CodePractice)
 #### Codeforces (сложность-количество)
 ![](https://github.com/kirillpolonskii/CodePractice/blob/main/presentation/kotlin/codeforces/cur_overall_stats_codeforces.png)
 #### LeetCode
