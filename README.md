@@ -20,6 +20,3 @@
 ![](https://github.com/kirillpolonskii/CodePractice/blob/main/presentation/kotlin/codeforces/cur_overall_stats_codeforces.png)
 #### LeetCode
 ![LeetCode stats](https://leetcode-badge-sage.vercel.app/badge/kirillpolonskii?theme=dark&bgColor=282828)
-
-#### Coming soon
-- Codewars
