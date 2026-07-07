@@ -17,6 +17,6 @@
 
 ### [Алгоритмические задачи](https://github.com/kirillpolonskii/CodePractice)
 #### Codeforces (сложность-количество)
-![](https://github.com/kirillpolonskii/CodePractice/blob/main/presentation/kotlin/codeforces/cur_overall_stats_codeforces.png)
+![](https://github.com/kirillpolonskii/CodePracticeKotlin/blob/main/presentation/ads/codeforces/cur_overall_stats_codeforces.png)
 #### LeetCode
-![LeetCode stats](https://leetcode-badge-sage.vercel.app/badge/kirillpolonskii?theme=dark&bgColor=282828)
+![LeetCode Stats](https://leetcard.jacoblin.cool/kirillpolonskii)
